@@ -25,4 +25,4 @@ Home Page
 * No Multiline Input (yet)
 * Message sound on receiving new message
 * Send Image, automatically store in the Public Folder to be accessible
-* Auto delete 1 day old messages
+* Auto delete 1 day old messages along with images uploaded with the message
